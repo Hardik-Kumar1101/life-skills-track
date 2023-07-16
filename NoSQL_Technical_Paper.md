@@ -20,7 +20,7 @@
 
 #### Document Database
 * Document stores are one step up in complexity from key-value stores: a document store does assume a particular document structure that can be specified with a schema.
-* ![Image for document database](https://www.researchgate.net/profile/Meenu-Dave/publication/303856633/figure/fig5/AS:370757357064196@1465406850186/Document-Store-Databases-3-Columnar-Databases-Columnar-Databases-are-also-known-as.png)
+* ![Image for document database](https://miro.medium.com/v2/resize:fit:720/format:webp/1*vhKORnX6ZQ5HNUaeqxbQGg.png)
 * Examples of document stores are MongoDB and CouchDB.
 
 #### Column-Oriented Database
