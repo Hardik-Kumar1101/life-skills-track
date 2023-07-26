@@ -1,7 +1,7 @@
-**Question 1
-*What are the steps/strategies to do Active Listening?
+**Question 1**
+*What are the steps/strategies to do Active Listening?*
  
-*Answer 
+*Answer*
 1. Give your full attention: When someone is speaking to you, focus on them completely. Put away distractions like phones or other devices, maintain eye contact, and give verbal or non-verbal cues to show you are attentive.
 
 2. Be genuinely interested: Approach the conversation with an open mind and a sincere desire to understand the speaker's perspective. Avoid preconceived notions or judgments.
@@ -13,10 +13,10 @@
 5. Paraphrase and summarize: Periodically rephrase or summarize what the speaker has said to confirm your understanding and let them know you are actively engaged in the conversation
 
 
-**Question 2
-*According to Fisher's model, what are the key points of Reflective Listening?
+**Question 2**
+*According to Fisher's model, what are the key points of Reflective Listening?*
 
-*Answer
+*Answer*
 Fisher's model of Reflective Listening is part of the Structured Communication Training (SCT) approach developed by Roger Fisher and his colleagues. It is designed to improve communication and understanding between individuals, particularly in conflict resolution and negotiation settings. The key points of Reflective Listening according to Fisher's model are as follows:
 
 1. Repeating back content: Reflective Listening involves paraphrasing or repeating back the content of the speaker's message in your own words. This demonstrates that you are actively processing and understanding what the speaker is saying.
@@ -30,10 +30,10 @@ Fisher's model of Reflective Listening is part of the Structured Communication T
 5. Being non-judgmental: In Reflective Listening, the listener avoids passing judgment or giving unsolicited advice. The focus is on understanding and acknowledging the speaker's perspective without imposing one's opinions.
 
 
-**Question 3
-*What are the obstacles in your listening process?
+**Question 3**
+*What are the obstacles in your listening process?*
 
-*Answer
+*Answer*
 1. Distractions: External distractions like noise, interruptions, or a busy environment can make it difficult to concentrate on the speaker's message.
 
 2. Preoccupation: When the listener is preoccupied with their own thoughts, worries, or concerns, it can be challenging to give their full attention to the speaker.
@@ -45,10 +45,10 @@ Fisher's model of Reflective Listening is part of the Structured Communication T
 5. Emotional triggers: Strong emotions can interfere with effective listening, especially if the topic being discussed is sensitive or personal.
 
 
-**Question 4
-*What can you do to improve your listening?
+**Question 4**
+*What can you do to improve your listening?*
 
-*Answer
+*Answer*
 1. Give your full attention: When someone is speaking to you, be present and focus solely on the speaker. Avoid distractions and give them your undivided attention.
 
 2. Maintain eye contact: Making eye contact shows the speaker that you are engaged and interested in what they are saying.
@@ -57,13 +57,13 @@ Fisher's model of Reflective Listening is part of the Structured Communication T
 
 4. Practice active listening: Actively engage with the speaker's words and content. Use verbal cues like nodding, verbal affirmations ("I see," "Sure," "Interesting"), and paraphrasing to show you are actively processing their message.
 
-5. *Avoid distractions*: Find a quiet and comfortable environment for the conversation, especially for important or sensitive discussions.
+5. Avoid distractions: Find a quiet and comfortable environment for the conversation, especially for important or sensitive discussions.
 
 
-**Question 5
-*When do you switch to Passive communication style in your day to day life?
+**Question 5**
+*When do you switch to Passive communication style in your day to day life?*
 
-*Answer
+*Answer*
 Passive communication is characterized by a reluctance to express one's own needs, desires, and opinions openly. Instead, passive individuals tend to avoid conflict, suppress their emotions, and may struggle to assert themselves. They may prioritize pleasing others or avoiding confrontation over expressing their own viewpoints.
 
 People may switch to a passive communication style in various situations, including:
@@ -78,10 +78,10 @@ People may switch to a passive communication style in various situations, includ
 
 5. Past negative experiences: Previous negative experiences, such as being criticized or invalidated for expressing themselves, can cause people to become more passive in their communication to protect themselves from potential harm.
 
-**Question 6
-*When do you switch into Aggressive communication styles in your day to day life?
+**Question 6**
+*When do you switch into Aggressive communication styles in your day to day life?*
 
-*Answer
+*Answer*
 Aggressive communication is characterized by being forceful, hostile, and confrontational. It involves expressing one's needs, opinions, or feelings in a way that disregards the rights and feelings of others. People may switch to an aggressive communication style in various situations, including:
 
 1. Frustration and anger: When individuals are feeling frustrated or angry, they may resort to aggressive communication as a way to vent their emotions or assert control.
@@ -94,10 +94,10 @@ Aggressive communication is characterized by being forceful, hostile, and confro
 
 5. Past learned behavior: Growing up in an environment where aggressive communication was the norm can lead individuals to adopt similar patterns in their own communication.
 
-**Question 7
+**Question 7**
 *When do you switch into Passive Aggressive (sarcasm/gossiping/taunts/silent treatment and others) communication styles in your day to day life?
 
-*Answer
+*Answer*
 Passive-aggressive communication is a behavior that involves indirectly expressing negative feelings or dissatisfaction. It may include sarcasm, gossiping, taunts, the silent treatment, backhanded compliments, and other subtle forms of hostility. People may switch to passive-aggressive communication styles in various situations, including:
 
 1. Avoiding direct confrontation: Some individuals may use passive-aggressive behavior as a way to avoid direct conflict or confrontation, expressing their frustrations indirectly instead.
@@ -110,10 +110,10 @@ Passive-aggressive communication is a behavior that involves indirectly expressi
 
 5. Feelings of powerlessness: Individuals who feel powerless or unable to address a situation directly may resort to passive-aggressive tactics as a means of coping.
 
-**Question 8
-*How can you make your communication assertive? You can analyse the videos and then think what steps you can apply in your own life?
+**Question 8**
+*How can you make your communication assertive? You can analyse the videos and then think what steps you can apply in your own life?*
 
-*Answer
+*Answer*
 1. Know your rights: Understand that you have the right to express yourself, share your opinions, and assert your needs in a respectful manner.
 
 2. Practice self-awareness: Be mindful of your emotions and thoughts. Understand how you feel about a situation and what you want to communicate before engaging in the conversation.
